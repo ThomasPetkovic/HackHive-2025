@@ -1,4 +1,4 @@
-# CourseHelper
+# CourseHelpr
 
 ## Overview
 CourseHelper is an AI-powered learning tool designed to enhance student engagement and understanding by transforming traditional learning materials into interactive experiences.

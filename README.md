@@ -18,7 +18,7 @@ CourseHelper aims to overcome these challenges by offering:
 - **AI Chatbot** – Instant support for student queries.
 - **Easy-to-Use Software** – A user-friendly interface for all learners.
 
-## Technologies Used
+## Technologies
 
 - **GUI Framework**: Tkinter
 - **AI Integration**: Hugging Face Transformers
@@ -35,34 +35,13 @@ CourseHelper aims to overcome these challenges by offering:
 - **Summarizing** – Generates concise summaries of course content.
 - **Adaptive Learning** – Personalizes study plans based on progress.
 - **Quizzing** – Offers interactive assessments.
-- **Earn Points from Engaging Games** – Rewards students for participation.
-- **Print Worksheets** – Generates printable resources for offline use.
 
 ### Non-Functional
 - **Reminders by Mail** – Sends study notifications.
 - **Bookmarks & Archives** – Organizes learning materials.
 - **To-Do List** – Helps students track tasks and deadlines.
-
-## Getting Started
-
-To use CourseHelper, install the necessary dependencies and follow these steps:
-
-1. Clone the repository.
-2. Install dependencies using:
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. Run the application using:
-   ```sh
-   python main.py
-   ```
-
-## Future Enhancements
-
-- Integration with more AI models for deeper learning insights.
-- Support for additional file formats.
-- Expanded gamification features.
+- **Earn Points from Engaging Games** – Rewards students for participation.
+- **Print Worksheets** – Generates printable resources for offline use.
 
 ## Contributors
-This project is developed and maintained by a team of dedicated developers focused on improving learning experiences through AI and interactivity.
-
+Matteo De Angelis Geraldo, Ryan Coones, Thaddeus Baturensky, Thomas Petkovic (41)

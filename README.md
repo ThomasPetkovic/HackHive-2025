@@ -1,7 +1,7 @@
 # CourseHelpr
 
 ## Overview
-CourseHelper is an AI-powered learning tool designed to enhance student engagement and understanding by transforming traditional learning materials into interactive experiences.
+CourseHelpr is an AI-powered learning tool designed to enhance student engagement and understanding by transforming traditional learning materials into interactive experiences.
 
 ## The Problem
 Students often face challenges in learning due to:
@@ -10,7 +10,7 @@ Students often face challenges in learning due to:
 - **Catching Up on Missed Lectures** – When students miss classes, they rely on static lecture notes or recordings that don’t provide interaction or clarification, making it difficult to catch up efficiently.
 - **Lack of Personalized Tutoring** – Traditional tutoring can be expensive or unavailable when needed. Generic study materials don’t adapt to individual learning paces, leading to gaps in understanding.
 ## Proposed Solution
-CourseHelper aims to overcome these challenges by offering:
+CourseHelpr aims to overcome these challenges by offering:
 
 - **Interactive Games** – Engaging activities with points and rewards to enhance learning.
 - **Quizzes and Feedback** – Real-time assessments to help students track progress.

@@ -6,10 +6,9 @@ CourseHelper is an AI-powered learning tool designed to enhance student engageme
 ## The Problem
 Students often face challenges in learning due to:
 
-1. **Asynchronous Learning Gaps** – Online learning lacks real-time feedback, making it difficult for students to stay motivated.
-2. **Catching Up on Missed Lectures** – Students rely on static resources that do not provide interactive explanations or personalized reinforcement.
-3. **Lack of Personalized Tutoring** – Generic study materials do not adapt to individual learning needs, leading to gaps in understanding.
-
+- **Asynchronous Learning Gaps** – While asynchronous learning offers flexibility, it lacks engagement, real-time feedback, and personalization, making it harder for students to stay motivated and fully understand material.
+- **Catching Up on Missed Lectures** – When students miss classes, they rely on static lecture notes or recordings that don’t provide interaction or clarification, making it difficult to catch up efficiently.
+- **Lack of Personalized Tutoring** – Traditional tutoring can be expensive or unavailable when needed. Generic study materials don’t adapt to individual learning paces, leading to gaps in understanding.
 ## Proposed Solution
 CourseHelper aims to overcome these challenges by offering:
 
